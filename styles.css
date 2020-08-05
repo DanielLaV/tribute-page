@@ -1,0 +1,14 @@
+main {
+    text-align: center;
+}
+
+ul {
+    position: relative;
+    text-align: left;
+    width: 50%;
+    left: 250px;
+}
+
+li {
+    margin-top: 20px;
+}
