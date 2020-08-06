@@ -1,5 +1,12 @@
-main {
+#main {
     text-align: center;
+}
+
+#image {
+    width: 80%;
+    max-width: 1024px;
+    display: block;
+    margin: auto;
 }
 
 ul {
@@ -12,3 +19,4 @@ ul {
 li {
     margin-top: 20px;
 }
+
